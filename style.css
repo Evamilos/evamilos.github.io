@@ -1,0 +1,68 @@
+@import url("fonts/fonts.css");
+
+.header {
+    padding: 10px 33px 33px 33px;
+    background: #FFFFFF;
+    font-size: 36px;
+}
+
+.about {
+    background-image: url('img/Rectangle.png');
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 50px 0px;
+    color: aliceblue;
+    font-size: 48px;
+}
+
+.tlinkitsk-war {
+    background-image: url('img/12.jpg');
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 30px 0px;
+    color: rgb(255, 255, 255);
+    font-size: 48px;
+}
+
+.tlinkitsk-war-end {
+    background-color: rgb(150, 150, 150);
+    width: 100%;
+    padding: 30px 0px;
+    font-size: 48px;
+    color: #FFFFFF;
+}
+
+.contacts {
+    background: #23374F;
+    width: 100%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 10px 0px;
+    font-size: 48px;
+}
+
+.footer {
+    background: #45B7E3;
+    color: rgb(253, 253, 253);
+    padding: 23px 0px;
+    text-align: right;
+    font-size: 48px;
+}
+
+.tlinkitsk-war-content > p {
+    text-indent: 1.5em;
+}
+
+.tlinkitsk-war-end-content > p {
+    text-indent: 1.5em;
+}
+
+.header-content__link {
+    color: black;
+}
+
+.contacts-content__link {
+    color: #FFFFFF;
+}
